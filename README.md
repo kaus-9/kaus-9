@@ -17,7 +17,7 @@
 
 ###
 
-<img src="https://github.com/kaus-9/kaus-9/blob/main/images_used/divider_loader.gif" width="100%">
+<img src="https://github.com/kaus-9/kaus-9/blob/main/images_used/divider_loader.gif" width="100%" height="20%">
 
 <h2> Lil About Me <img alt="GIF" src="https://github.com/kaus-9/kaus-9/blob/main/images_used/green_dots_animated.gif" width="10%" /></h2>
 
