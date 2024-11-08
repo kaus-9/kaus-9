@@ -19,7 +19,7 @@
 
 <img src="https://github.com/kaus-9/kaus-9/blob/main/images_used/divider_loader.gif" width="100%">
 
-## Lil About Me
+<h2> Lil About Me <img alt="GIF" src="https://github.com/kaus-9/kaus-9/blob/main/images_used/green_dots_animated.gif" width="25" /></h2>h2
 
 - <img alt="GIF" src="https://github.com/kaus-9/kaus-9/blob/main/images_used/Developer.gif" width="25" /> &nbsp; I’m currently learning **Data Engineering, Data Science & Machine Learning**.
 - <img src="https://github.com/kaus-9/kaus-9/blob/main/images_used/hyperkitty.gif" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **AI / Quantum / Technology / History**. <br>
@@ -33,7 +33,7 @@
 <img src="https://github.com/kaus-9/kaus-9/blob/main/images_used/divider_loader.gif" width="100%">
 
 ### Some Technologies & Tools that I know ...
-
+<br>
 ###
 
 <div align="center">
@@ -87,6 +87,7 @@
 </div>
 
 ###
+<br>
 
 ```
 // some tools and technologies i know (descriptive) ...
@@ -102,8 +103,6 @@ class Technologies extends Me {
   };
 }
 ```
-
-####
 
 <img src="https://github.com/kaus-9/kaus-9/blob/main/images_used/divider_loader.gif" width="100%">
 
@@ -121,9 +120,10 @@ class Technologies extends Me {
 <details>
   <summary>More stats</summary>
 
-<img align="center" src="https://streak-stats.demolab.com?user=kaus-9&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"  alt="streak graph"/>
-<br clear="both">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaus-9&theme=nord_dark" >
+###
+<br>
+<img align="center" src="https://streak-stats.demolab.com?user=kaus-9&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"  alt="streak graph"/>
 
 </details>
 
@@ -139,9 +139,9 @@ class Technologies extends Me {
 
 ###
 
-<br clear="both">
+**Code Cycle**
 
-**Code Cycle**<br>
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
