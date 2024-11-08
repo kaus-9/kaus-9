@@ -19,7 +19,7 @@
 
 <img src="https://github.com/kaus-9/kaus-9/blob/main/images_used/divider_loader.gif" width="100%">
 
-<h2> Lil About Me <img alt="GIF" src="https://github.com/kaus-9/kaus-9/blob/main/images_used/green_dots_animated.gif" width="25" /></h2>h2
+<h2> Lil About Me <img alt="GIF" src="https://github.com/kaus-9/kaus-9/blob/main/images_used/green_dots_animated.gif" /></h2>
 
 - <img alt="GIF" src="https://github.com/kaus-9/kaus-9/blob/main/images_used/Developer.gif" width="25" /> &nbsp; I’m currently learning **Data Engineering, Data Science & Machine Learning**.
 - <img src="https://github.com/kaus-9/kaus-9/blob/main/images_used/hyperkitty.gif" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **AI / Quantum / Technology / History**. <br>
@@ -34,7 +34,6 @@
 
 ### Some Technologies & Tools that I know ...
 <br>
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
@@ -121,7 +120,7 @@ class Technologies extends Me {
   <summary>More stats</summary>
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaus-9&theme=nord_dark" >
-###
+<br>
 <br>
 <img align="center" src="https://streak-stats.demolab.com?user=kaus-9&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"  alt="streak graph"/>
 
