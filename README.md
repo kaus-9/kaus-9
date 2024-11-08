@@ -19,7 +19,7 @@
 
 <img src="https://github.com/kaus-9/kaus-9/blob/main/images_used/divider_loader.gif" width="100%">
 
-<h2> Lil About Me <img alt="GIF" src="https://github.com/kaus-9/kaus-9/blob/main/images_used/green_dots_animated.gif" width="10%" height="20%"/></h2>
+<h2> Lil About Me <img alt="GIF" src="https://github.com/kaus-9/kaus-9/blob/main/images_used/green_dots_animated.gif" width="5%"/></h2>
 
 - <img alt="GIF" src="https://github.com/kaus-9/kaus-9/blob/main/images_used/Developer.gif" width="25" /> &nbsp; I’m currently learning **Data Engineering, Data Science & Machine Learning**.
 - <img src="https://github.com/kaus-9/kaus-9/blob/main/images_used/hyperkitty.gif" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **AI / Quantum / Technology / History**. <br>
